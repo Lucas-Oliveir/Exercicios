@@ -1,0 +1,1 @@
+{"name":"Local: basquete","url":"c:\\Projetos\\ProjetoC\\estudos.cpp\\basquete.cpp","tests":[{"id":1747018492297,"input":"A2B1A2B2A1A2A2A2\n","output":"A"},{"id":1747018644651,"input":"A2B2A1B2A2B1A2B2A1B2A1A1B1A1A2\n","output":"A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Projetos\\ProjetoC\\estudos.cpp\\basquete.cpp","group":"local","local":true}
