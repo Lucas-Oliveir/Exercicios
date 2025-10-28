@@ -28,5 +28,6 @@
          }  
      }
      cout<<ganhador<<endl;
+     cout << "sexo" << endl;
 
  }
